@@ -3,14 +3,14 @@
 A full stack Student Management System built with the MERN stack for **Devixo Solutions Web Development Internship, Task 03 (Option 2)**.
 
 **Live site:** https://student-management-system4.netlify.app
-**Backend API:** https://studentmanagement-4mb98xvn.b4a.run
+**Backend API:** https://student-management1-pi.vercel.app/
 
 ## Tech Stack
 - **Frontend:** React 18, React Router, Axios, Vite
 - **Backend:** Node.js, Express
 - **Database:** MongoDB Atlas with Mongoose
 - **Auth and security:** JWT, bcryptjs, CORS
-- **Hosting:** Netlify (frontend), Back4app Containers (backend)
+- **Hosting:** Netlify (frontend),Vercel Containers (backend)
 
 ## Features
 - **Authentication:** register, login and logout with JWT and hashed passwords
